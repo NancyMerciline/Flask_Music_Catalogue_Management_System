@@ -35,8 +35,7 @@ The project combines backend development with database management and responsive
 * **HTML5**
 * **CSS3**
 * **Bootstrap**
-* **SQLite / MySQL** *(update this based on the database used)*
-* **SQLAlchemy** *(if applicable)*
+* **MySQL**
 * **Jinja2 Templates**
 * **Git & GitHub**
 
